@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.hotel.booking.BookingIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.414 s -- in dev.hotel.booking.BookingIntegrationTest
